@@ -1,1 +1,1 @@
-# DataScience_Capstone
+# DataScience_Projects
