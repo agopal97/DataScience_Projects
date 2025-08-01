@@ -4,6 +4,6 @@ Note:
 
 The analysis is a google colab notebook. Please navigate to the colab file with extention (.ipynb) to read the entire analysis.
 
-The interactive dashboard is through powerBI. To navigate to this file search for extension (.pbix).
+The interactive dashboard is through powerBI. To navigate to this file search for extension (.pbix). download the file  to access the dashboard.
 
-The datasets are csv files which are downloadable.
+The datasets are csv files which are downloadable. To get the latest datasets please download and run the juypter notebook in your local machine. Once the notebook is run, the dataset files will be directly available in the notebook file directory to view or download. 
