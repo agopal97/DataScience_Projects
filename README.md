@@ -4,4 +4,5 @@ This is where all projects related to data science/analytics are published. Belo
 
 Featured projects: 
 
-BritishAirlines_customer_sentiment_analysis: "BritishAirlines_customer_sentiment_analysis/BritishAirwayswebAnalysis_ag.ipynb'
+[BritishAirlines_customer_sentiment_analysis](BritishAirlines_customer_sentiment_analysis/BritishAirwayswebAnalysis_ag.ipynb
+)
