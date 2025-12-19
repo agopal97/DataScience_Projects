@@ -6,3 +6,5 @@ Featured projects:
 
 [BritishAirways_customer_sentiment_analysis](BritishAirways_customer_sentiment_analysis/BritishAirwayswebAnalysis_ag.ipynb
 )
+
+[PastaRUsLoyaltyCard_data_Prj](PastaRUsLoyaltyCard_data_Prj/)
