@@ -1,4 +1,40 @@
-This is an end to end customer sentiment analysis of British Airways reviews. 
+✈️ British Airways Customer Sentiment Analysis:
+
+Project Overview:
+
+This project is an end‑to‑end customer sentiment analysis of British Airways reviews sourced from AirlineQuality.com. The goal was to transform raw, unstructured text into actionable insights that highlight customer satisfaction trends and operational pain points.
+
+Purpose: 
+
+The analysis classified customer reviews into positive, negative, or neutral categories using polarity and sentiment scoring techniques. These insights helped identify what British Airways was doing well and where customer experience improvements were needed the most.
+
+---------------------------------------------------------------------------------------------------------------------------
+Tools & Technologies:
+
+.Python: NumPy, Pandas, BeautifulSoup, Scikit‑Learn, Seaborn, NLTK, Matplotlib
+
+.Data Processing: Excel, Power Query
+
+.Environment: Google Colab
+
+.Visualization: Power BI
+
+----------------------------------------------------------------------------------------------------------------------------
+Skills Demonstrated: 
+
+End‑to‑end data pipeline development
+
+Web scraping & data extraction
+
+Text cleaning and preprocessing
+
+Sentiment & polarity analysis
+
+Exploratory data analysis (EDA)
+
+Dashboard design & data storytelling
+
+Translating analytical findings into business insights
 
 -------------------------------------------------------------------------------------------------------------------
 Note:
