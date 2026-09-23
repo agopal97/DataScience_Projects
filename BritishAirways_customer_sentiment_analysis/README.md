@@ -22,19 +22,19 @@ Tools & Technologies:
 ----------------------------------------------------------------------------------------------------------------------------
 Skills Demonstrated: 
 
-End‑to‑end data pipeline development
+• End‑to‑end data pipeline development — from web scraping to cleaning, analysis, and dashboarding
 
-Web scraping & data extraction
+• Web scraping & automated data extraction using BeautifulSoup
 
-Text cleaning and preprocessing
+• Text preprocessing for NLP (tokenization, stopword removal, lemmatization) with NLTK
 
-Sentiment & polarity analysis
+• Lexicon‑based sentiment and polarity analysis using TextBlob
 
-Exploratory data analysis (EDA)
+• Exploratory data analysis (EDA) to uncover patterns in customer sentiment
 
-Dashboard design & data storytelling
+• Interactive dashboard design & visualization in Power BI
 
-Translating analytical findings into business insights
+• Data storytelling & insight communication to highlight customer experience trends and operational pain points
 
 -------------------------------------------------------------------------------------------------------------------
 Note:
