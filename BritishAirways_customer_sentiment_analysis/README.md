@@ -11,13 +11,13 @@ The analysis classified customer reviews into positive, negative, or neutral cat
 ---------------------------------------------------------------------------------------------------------------------------
 Tools & Technologies:
 
-.Python: NumPy, Pandas, BeautifulSoup, Scikit‑Learn, Seaborn, NLTK, Matplotlib
+• Python Libraries: BeautifulSoup (web scraping) • Pandas (data cleaning & transformation) • NumPy (data manipulation) • NLTK (text preprocessing: tokenization, stopword removal, lemmatization) • TextBlob (sentiment & polarity scoring) • Matplotlib & Seaborn (EDA visualizations)
 
-.Data Processing: Excel, Power Query
+• Data Processing: Excel • Power Query
 
-.Environment: Google Colab
+• Environment: Google Colab
 
-.Visualization: Power BI
+• Visualization & Reporting: Power BI
 
 ----------------------------------------------------------------------------------------------------------------------------
 Skills Demonstrated: 
