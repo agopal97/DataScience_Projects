@@ -5,4 +5,5 @@ This is where academic projects related to data science/analytics are published.
 Featured projects: 
 
 [PastaRUsLoyaltyCard_data_Prj](PastaRUsLoyaltyCard_data_Prj/)
-[PastaRusPredictive_dataPrj].(PastaRusPredictive_dataPrj/)  
+
+[PastaRusPredictive_dataPrj](PastaRusPredictive_dataPrj/)
